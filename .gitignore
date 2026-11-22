@@ -1,0 +1,9 @@
+# R/RStudio files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Data and Outputs (NEVER COMMIT HEALTH DATA!!)
+Data/
+Output/
