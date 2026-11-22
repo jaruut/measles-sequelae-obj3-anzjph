@@ -1,4 +1,4 @@
-# Long-term Hospitalisation and Pharmaceutical Outcomes Following Measles Infection in Aotearoa New Zealand (2006–2018)
+# Measles 2006-2018 and subsequent healthcare use in Aotearoa New Zealand - case-control cohort study
 Author: Vix (github: jaruut)
 Permanent Archive Figshare: DOI [10.17608/k6.auckland.33315432](https://10.17608/k6.auckland.33315432)
 
