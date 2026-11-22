@@ -1,5 +1,6 @@
 # Long-term Hospitalisation and Pharmaceutical Outcomes Following Measles Infection in Aotearoa New Zealand (2006–2018)
 Author: Vix (github: jaruut)
+Permanent Archive Figshare: DOI [10.17608/k6.auckland.33315432](https://10.17608/k6.auckland.33315432)
 
 This repository contains the R analysis scripts accompanying our manuscript submitted to the *Australian and New Zealand Journal of Public Health*.
 
